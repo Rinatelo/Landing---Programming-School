@@ -1,2 +1,2 @@
-# Landing--Programming-School
+# Programming-School
 project on gulp assembly
